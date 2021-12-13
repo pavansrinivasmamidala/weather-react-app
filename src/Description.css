@@ -1,0 +1,19 @@
+div.rotate-text {
+  transform: rotateX(10deg) rotateY(21deg);
+  position: relative;
+  top: 1rem;
+}
+
+div.description-text {
+  border-radius: 20px;
+  background-color: #1474cf;
+  padding: 0.5rem;
+  width: max-content;
+}
+
+h4.description {
+  font-size: 40px;
+  color: #a4d4ff;
+  padding: 1rem;
+  text-transform: capitalize;
+}

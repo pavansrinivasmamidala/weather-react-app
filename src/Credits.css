@@ -1,0 +1,21 @@
+div.container-creator {
+  position: relative;
+  font-size: 25px;
+  font-family: "Fredoka One", cursive;
+  text-align: center;
+  margin: 0 auto;
+  zoom: 80%;
+}
+
+p.created-by {
+  color: #faffff;
+}
+
+a.created-by {
+  color: #faffff;
+  text-decoration: none;
+}
+
+a.created-by:hover {
+  color: #e5e5e5;
+}

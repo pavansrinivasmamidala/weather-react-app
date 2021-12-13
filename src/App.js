@@ -1,13 +1,12 @@
-import React from 'react';
-import Search from './Search';
-import './App.css';
+import "./App.css";
+import Search from "./Search";
+import City from "./City";
 
-function App() {
+export default function App() {
   return (
     <div className="App">
-     <Search />
+      <Search />
+      <City />
     </div>
   );
 }
-
-export default App;

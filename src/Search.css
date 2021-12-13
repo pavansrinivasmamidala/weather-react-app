@@ -1,0 +1,22 @@
+div.row-margin {
+  position: relative;
+  top: 4rem;
+  left: 2rem;
+  margin-bottom: 2rem;
+}
+
+div.user-input {
+  max-width: max-content;
+  zoom: 100%;
+  margin-left: -4rem;
+}
+
+button.btn-search {
+  border-radius: 0 10px 10px 0;
+}
+
+button.actual-location {
+  position: relative;
+  left: 1rem;
+  border-radius: 30px;
+}

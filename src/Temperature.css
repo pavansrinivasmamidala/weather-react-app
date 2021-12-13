@@ -1,0 +1,13 @@
+div.changing-position {
+  position: relative;
+}
+
+h1.temperature-number {
+  font-size: 120px;
+  color: #faffff;
+  background-color: #65aaec;
+  border-radius: 20px;
+  font-family: "Open Sans", sans-serif;
+  max-width: 50rem;
+  text-align: center;
+}

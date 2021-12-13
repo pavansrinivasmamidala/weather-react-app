@@ -1,0 +1,15 @@
+div.changing-position {
+  position: relative;
+  zoom: 80%;
+}
+
+div.details-temp {
+  font-size: 35px;
+  color: #faffff;
+}
+
+span.percentage {
+  margin: 2rem;
+  font-family: "Fredoka One", cursive;
+  letter-spacing: 2px;
+}
