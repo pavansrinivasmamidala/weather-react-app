@@ -9,7 +9,7 @@ export default function Credits() {
           <div className="col-9 container-creator">
             <p className="created-by">
               <a
-                href="https://github.com/milicodes/weather-app-page"
+                href="https://github.com/milicodes/weather-react-app"
                 target="_blank"
                 rel="noreferrer"
                 className="created-by"
