@@ -1,14 +1,14 @@
 div.position-next-days {
   position: relative;
   width: 30rem;
-  margin-top: 1rem;
+  margin-top: -5rem;
   transform: rotateX(57deg) rotateZ(56deg);
   transition: 0.4s ease-in-out transform, 0.4s ease-in-out box-shadow;
 }
 
 div.next-days-edit {
   border-radius: 10px;
-  width: max-content;
+  width: auto;
   transition: 0.4s ease-in-out transform, 0.4s ease-in-out;
 }
 
@@ -16,6 +16,15 @@ div.next-days-edit:hover {
   transform: translate3d(0px, -16px, 0px);
   box-shadow: 1px 1px 0 1px #f9f9fb, -1px 0 28px 0 rgba(34, 33, 81, 0.01),
     54px 54px 28px -10px rgba(43, 42, 65, 0.1);
+}
+
+div.color-clear {
+  background: rgb(255, 252, 3, 0.3);
+  box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.1);
+  backdrop-filter: blur(4px);
+  -webkit-backdrop-filter: blur(4px);
+  border-radius: 10px;
+  color: #faffff;
 }
 
 div.color-cloud {
@@ -48,8 +57,3 @@ div.color-other {
 i.icon-days {
   font-size: 50px;
 }
-
-
-
-
-

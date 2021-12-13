@@ -8,7 +8,7 @@ div.description-text {
   border-radius: 20px;
   background-color: #1474cf;
   padding: 0.5rem;
-  width: max-content;
+  width: auto;
 }
 
 h4.description {

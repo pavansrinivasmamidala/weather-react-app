@@ -19,7 +19,7 @@ export default function Forecast() {
                   </h5>
                   <i className="fas fa-cloud icon icon-days" id="iconNext"></i>
                   <p className="card-text" id="max">
-                    <strong>31</strong>&deg 29&deg
+                    <strong>31</strong>° 29°
                   </p>
                 </div>
               </div>
@@ -30,7 +30,7 @@ export default function Forecast() {
                   </h5>
                   <i className="fas fa-cloud icon icon-days" id="iconNext"></i>
                   <p className="card-text" id="max">
-                    <strong>31</strong>&deg 29&deg
+                    <strong>31</strong>° 29°
                   </p>
                 </div>
               </div>
@@ -41,7 +41,7 @@ export default function Forecast() {
                   </h5>
                   <i className="fas fa-cloud icon icon-days" id="iconNext"></i>
                   <p className="card-text" id="max">
-                    <strong>31</strong>&deg 29&deg
+                    <strong>31</strong>° 29°
                   </p>
                 </div>
               </div>
@@ -55,7 +55,7 @@ export default function Forecast() {
                     id="iconNext"
                   ></i>
                   <p className="card-text" id="max">
-                    <strong>29</strong>&deg 27&deg
+                    <strong>29</strong>° 27°
                   </p>
                 </div>
               </div>
@@ -66,7 +66,7 @@ export default function Forecast() {
                   </h5>
                   <i className="fas fa-sun icon icon-days" id="iconNext"></i>
                   <p className="card-text" id="max">
-                    <strong>31</strong>&deg 29&deg
+                    <strong>31</strong>° 29°
                   </p>
                 </div>
               </div>
@@ -77,7 +77,7 @@ export default function Forecast() {
                   </h5>
                   <i className="fas fa-cloud icon icon-days" id="iconNext"></i>
                   <p className="card-text" id="max">
-                    <strong>31</strong>&deg 29&deg
+                    <strong>31</strong>° 29°
                   </p>
                 </div>
               </div>
