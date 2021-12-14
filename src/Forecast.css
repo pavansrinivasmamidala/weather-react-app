@@ -58,3 +58,8 @@ div.color-other {
 i.icon-days {
   font-size: 50px;
 }
+
+h5.card-title {
+  font-size: 25px;
+  font-family: "Merriweather Sans", sans-serif;
+}
