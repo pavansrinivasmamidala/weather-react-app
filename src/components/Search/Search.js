@@ -35,7 +35,7 @@ export default function Search() {
                     id="actual-location"
                   >
                     <FontAwesomeIcon icon={faStreetView} size="s"  />
-                    <i className="fas fa-street-view local"></i>
+                   
                   </button>
                 </div>
               </div>
