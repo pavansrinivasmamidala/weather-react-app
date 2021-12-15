@@ -1,4 +1,5 @@
 import React from "react";
+import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import "./Search.css";
 
 export default function Search() {
@@ -10,7 +11,7 @@ export default function Search() {
             <div className="col-5 user-input">
               <div className="input-group">
                 <input
-                  type="text"
+                  type="search"
                   className="form-control"
                   placeholder="Enter City"
                   aria-label="Enter City"
@@ -20,7 +21,7 @@ export default function Search() {
                 <div className="input-group-append">
                   <button
                     className="btn btn-lg btn-outline-light btn-search"
-                    type="button"
+                    type="submit"
                     id="search-input"
                   >
                     <i className="fas fa-search-location location"></i>
