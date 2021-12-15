@@ -1,6 +1,7 @@
 import React from "react";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import "./Search.css";
+import { faSearch,faStreetView } from "@fortawesome/free-solid-svg-icons";
 
 export default function Search() {
   return (
@@ -23,8 +24,8 @@ export default function Search() {
                     className="btn btn-lg btn-outline-light btn-search"
                     type="submit"
                     id="search-input"
-                  >
-                    <i className="fas fa-search-location location"></i>
+                  ><FontAwesomeIcon  icon={faSearch} size="s"/>
+                    {/* <i className="fas fa-search-location location"></i> */}
                   </button>
                 </div>
                 <div className="col d-flex align-items-start">
@@ -33,6 +34,7 @@ export default function Search() {
                     type="button"
                     id="actual-location"
                   >
+                    <FontAwesomeIcon icon={faStreetView} size="s"  />
                     <i className="fas fa-street-view local"></i>
                   </button>
                 </div>

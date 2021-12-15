@@ -1,13 +1,14 @@
 import React from "react";
 import "./City.css";
-import Icon from "./Icon";
-import Description from "./Description";
-import Date from "./Date";
-import Forecast from "./Forecast";
-import Temperature from "./Temperature";
-import Humidity from "./Humidity";
-import Convertion from "./Convertion";
-import Credits from "./Credits";
+import Icon from "../Icon/Icon";
+import Description from "../Description/Description";
+import Date from "../Date/Date";
+import Forecast from "../Forecast/Forecast";
+import Temperature from "../Temperature/Temperature";
+import Humidity from "../Humidity/Humidity";
+import Convertion from "../Convertion/Convertion";
+import Credits from "../Credits/Credits";
+
 
 export default function City() {
   return (

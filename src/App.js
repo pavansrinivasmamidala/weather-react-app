@@ -1,6 +1,6 @@
 import "./App.css";
-import Search from "./Search";
-import City from "./City";
+import Search from "./components/Search/Search";
+import City from "./components/City/City";
 
 export default function App() {
   return (
