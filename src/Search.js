@@ -26,7 +26,7 @@ export default function Search() {
                     <i className="fas fa-search-location location"></i>
                   </button>
                 </div>
-                <div className="col-sm">
+                <div className="col d-flex align-items-start">
                   <button
                     className="btn btn-lg btn-outline-light actual-location"
                     type="button"
